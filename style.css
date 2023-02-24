@@ -1,0 +1,29 @@
+body {
+  background-color: #c6c6c6;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+}
+.pic {
+  width: 120px;
+  height: 120px;
+  background-color: #254dfb;
+}
+button {
+  background-color: #208b24;
+  color: #fff;
+  border: none;
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+}
